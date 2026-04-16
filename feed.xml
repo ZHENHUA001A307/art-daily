@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/art-daily</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Wed, 15 Apr 2026 02:23:46 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Apr 2026 02:30:35 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[少女的终末旅行第01卷-6]]></title>
-      <link>https://m.manhuagui.com/comic/15421/868671.html#p=52</link>
+      <title><![CDATA[少女的终末旅行第01卷-7]]></title>
+      <link>https://m.manhuagui.com/comic/15421/868671.html#p=62</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://m.manhuagui.com/comic/15421/868671.html#p=62</guid>
+      <pubDate>Thu, 16 Apr 2026 02:30:35 +0000</pubDate>
+    </item>
+<item>
+      <title>少女的终末旅行第01卷-6</title>
+      <link>https://m.manhuagui.com/comic/15421/868671.html#p=52</link>
+      <description />
       <guid isPermaLink="false">https://m.manhuagui.com/comic/15421/868671.html#p=52</guid>
       <pubDate>Wed, 15 Apr 2026 02:23:46 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description />
       <guid isPermaLink="false">https://m.manhuagui.com/comic/30839/694508.html</guid>
       <pubDate>Thu, 02 Apr 2026 02:06:15 +0000</pubDate>
-    </item>
-<item>
-      <title>蘑菇的拟态日常-第041话</title>
-      <link>https://m.manhuagui.com/comic/30839/693086.html</link>
-      <description />
-      <guid isPermaLink="false">https://m.manhuagui.com/comic/30839/693086.html</guid>
-      <pubDate>Wed, 01 Apr 2026 02:26:55 +0000</pubDate>
     </item>
 </channel>
 </rss>
