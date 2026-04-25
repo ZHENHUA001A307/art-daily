@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/art-daily</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Fri, 24 Apr 2026 02:29:33 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Apr 2026 02:11:34 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[少女的终末旅行第01卷-15]]></title>
-      <link>https://m.manhuagui.com/comic/15421/868671.html#p=142</link>
+      <title><![CDATA[少女的终末旅行第01卷-16]]></title>
+      <link>https://m.manhuagui.com/comic/15421/868671.html#p=152</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://m.manhuagui.com/comic/15421/868671.html#p=152</guid>
+      <pubDate>Sat, 25 Apr 2026 02:11:34 +0000</pubDate>
+    </item>
+<item>
+      <title>少女的终末旅行第01卷-15</title>
+      <link>https://m.manhuagui.com/comic/15421/868671.html#p=142</link>
+      <description />
       <guid isPermaLink="false">https://m.manhuagui.com/comic/15421/868671.html#p=142</guid>
       <pubDate>Fri, 24 Apr 2026 02:29:33 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description />
       <guid isPermaLink="false">https://m.manhuagui.com/comic/15421/868671.html#p=12</guid>
       <pubDate>Sat, 11 Apr 2026 02:04:32 +0000</pubDate>
-    </item>
-<item>
-      <title>少女的终末旅行第01卷-1</title>
-      <link>https://m.manhuagui.com/comic/15421/868671.html#p=2</link>
-      <description />
-      <guid isPermaLink="false">https://m.manhuagui.com/comic/15421/868671.html#p=2</guid>
-      <pubDate>Fri, 10 Apr 2026 02:24:37 +0000</pubDate>
     </item>
 </channel>
 </rss>
